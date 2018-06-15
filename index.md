@@ -11,7 +11,7 @@ list_title: "Chronicles"
 _Fourreal GmbH_ is a real estate company based in Vienna and operating in
 Vienna and Berlin.
 
-I an my wife bought an apartment in Berlin from _fourreal K8 GmbH & Co KG_, one of the affiliates of the _fourreal group_.  We are currently in a court proceeding against them, and we are not the only ones that needed the help of lawyers and courts while dealing with fourreal.
+I and my wife bought an apartment in Berlin from _fourreal K8 GmbH & Co KG_, one of the affiliates of the _fourreal group_.  We are currently in a court proceeding against them, and we are not the only ones that needed the help of lawyers and courts while dealing with fourreal.
 
 A court can only tell us what is legal and what is not.
 I am writing these chronicles to explore borders even more blurred that the one between legal and illegal: the ones between professional and amateurish, humble and arrogant, cunning and sneaky, reasonable and greedy.

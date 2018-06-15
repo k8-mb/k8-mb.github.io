@@ -25,7 +25,7 @@ back to the parquet shop and choose another product.  He say that we
 can have the wood we choose as a _dielen_.  I insist for an
 estimation, since I prefer a glued solution for several reasons, not
 last, it is more indicated for underfloor heating.  The more I ask for
-precise information, the more Mr. Andreas ["Lionel Hutz"][hutz]
+precise information, the more Mr. Andreas "[Lionel Hutz][hutz]"
 Klugsberger insists that the parquet we ordered is not what we want,
 and the one he propose is better.
 

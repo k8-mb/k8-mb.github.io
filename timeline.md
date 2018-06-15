@@ -3,10 +3,10 @@ layout: page
 title: "Timeline"
 ---
 
-This a diary of events related to the apartment in Kärntener Straße 8,
-10827 Berlin, owed by me, Marco Benelli, and my wife.
+This a diary of events related to the apartment in Kärntener Straße, Berlin,
+owned by me, Marco Benelli, and my wife.
 It is done mostly to keep track of all the unsanswered mails, false statements and ambiguous reply dispensed by fourreal.
-It is inteded to be a work in progress.
+It is intended to be a work in progress.
 
 2016
 ====
@@ -25,7 +25,6 @@ Mr. Unger to choose the parquet.  The notary confirms Mr. Jendrzejewski
 statements.  Mr. Jendrzejewski call by phone a employee of his company
 that send us an e-mail with Mr. Unger's phone number.
 
-
 May, 5th-27th
 ------------
 
@@ -40,7 +39,6 @@ additional cost.  We agree with his proposal.  Mr. Unger gives us an
 the material included in the contract.  We agree to cover the price
 difference of the material that we will choose.
 
-
 May, 28th
 --------
 
@@ -51,22 +49,20 @@ them.  Since in the [note][unger_parquet] that Mr. Unger gave us to bring to the
 parquet shop there were his e-mail address, we think that he has an
 agreement with the shop to have the specifications by e-mail.
 
-
 June - July
 -----------
 
 We discuss with Mr. Unger several details and additional costs, we
 never received a written list:
 
-  - parquet material: ca 1400 Euro
-  - valve in the garden: ca 600 Euro
-  - tiles in the bathroom: ca 400 Euro
+- parquet material: ca 1400 Euro
+- valve in the garden: ca 600 Euro
+- tiles in the bathroom: ca 400 Euro
 
 We order the kitchen, after confirmation from Mr. Unger that
 electrical connections will fit.  The seller of the kitchen (IKEA) tell
 us that it can be installed on September, 16th.  Mr. Unger confirms
 that the apartment will be ready for such date.
-
 
 August, 17th
 ------------
@@ -81,7 +77,6 @@ a vague estimation (hundreds of Euros).  We are told that a precise
 estimation will be provided the following day.  We agree to come back
 to the parquet shop to evaluate some alternatives that could fit the
 requirement.
-
 
 August, 18th
 ------------
@@ -100,13 +95,11 @@ himself, in case of damage of the material.  We ask for the
 possibility to call another company to do the job.  He say that it
 would be possible.
 
-
 August, 19th
 ------------
 
 I contact the lawyer Mr. Thomas Röth for a legal consultancy.  We fix
 an appointment for the morning of August, 23th.
-
 
 August, 20th
 ------------
@@ -221,10 +214,10 @@ first time we hear them refer to the steps as "podestum".
 
 We insist that we do not have to pay, and they propose us two choices:
 
-  - to go the following day to the parquet shop with Mr. Unger and
-    choose another parquet; then Fourreal would have payed for the
-    "podestum";
-  - to contribute to the costs, for an unspecified amount.
+- to go the following day to the parquet shop with Mr. Unger and
+  choose another parquet; then Fourreal would have payed for the
+  "podestum";
+- to contribute to the costs, for an unspecified amount.
 
 We refuse to take a decision immediately and they told us it would have
 been essential to meet with them the following day, otherwise the
@@ -257,7 +250,6 @@ additional costs, he reply that it will be provided at last the
 following day.  In the evening I send Mr. Klugsberger the kitchen
 plan.
 
-
 September, 02
 -------------
 
@@ -268,14 +260,12 @@ could provide the kitchen plan to Mr. Unger.  Mr. Klugsberger send it
 to Mr. Unger, telling him to charge us of the additional costs for the
 missing socket.  We still have not received any list of costs.
 
-
 September, 03
 -------------
 
 Mr. Unger calls my wife, telling that if we do not find an agreement
 before Tuesday, he will install the "parkett-dielen".  I write to
 Mr. Klugsberger complaining about their unprofessional behavior.
-
 
 September, 05
 -------------
@@ -294,18 +284,17 @@ a day of delay in the delivery.
 
 He seems to ignore that:
 
-  - from August, 17th, he is involved in the discussion;
-  - on August, 23th, we told him that we wanted to call another
-    company;
-  - on August, 23th, he made us an offer to persuade us to have the
-    work assigned to Mr. Unger's company;
-  - in the following days, August 24th, 26th and 30th, I asked him for
-    a reply;
-  - on August, 30th, he told me that everything was fine, and Fourreal
-    would have payed;
-  - Mr. Jendrzejewski, who pointed to Mr. Unger as our referent, is
-    not only the real estate agent, but was representing Fourreal;
-
+- from August, 17th, he is involved in the discussion;
+- on August, 23th, we told him that we wanted to call another
+  company;
+- on August, 23th, he made us an offer to persuade us to have the
+  work assigned to Mr. Unger's company;
+- in the following days, August 24th, 26th and 30th, I asked him for
+  a reply;
+- on August, 30th, he told me that everything was fine, and Fourreal
+  would have payed;
+- Mr. Jendrzejewski, who pointed to Mr. Unger as our referent, is
+  not only the real estate agent, but was representing Fourreal;
 
 September, 06
 -------------
@@ -318,7 +307,6 @@ Mr. Klugsberger reply that it will not be possible because we are
 working on an agreement with Mr. Unger that modify the contract.  He
 summarize the proposal he made me in his previous e-mail.
 
-
 September, 07
 -------------
 
@@ -329,14 +317,12 @@ option I have choose.  I tell him to talk with Mr.  Röth and that I
 want the parquet we choose.  He tell me again that if I do not choose
 one of his options the delivery will be delayed.
 
-
 September, 12
 -------------
 
 I send Mr. Röth the e-mail exchange between me and Klugsberger.  I
 tell him that we are not aware of the "podestum" that Mr. Klugsberger
 was talking about in his e-mail.
-
 
 September, 13
 -------------
@@ -345,7 +331,6 @@ Mr. Röth write to Mr. Klugsberger telling the unlikeness of separate
 agreement between us and Mr. Unger.  Later on, he tell me that it
 seems strange that Mr. Klugsberger is trying to put Mr. Unger in
 troubles.
-
 
 September, 14
 -------------
@@ -357,7 +342,6 @@ solution before the following day.
 
 He send me an e-mail with a declaration from Mr. Unger and a cryptic
 list of costs.
-
 
 September, 15
 -------------
@@ -380,7 +364,6 @@ confirmation that no special treatment is needed.  I tell it to
 Mr. Röth and send him the estimation of layering costs that we
 gathered in the previous weeks.
 
-
 September, 18
 -------------
 
@@ -392,7 +375,6 @@ are talking about a "podestum" in concrete, that would be too heavy.
 He said that covering the steps with parquet will be cheaper for them,
 but it will be aesthetically ugly.
 
-
 September, 19
 -------------
 
@@ -403,7 +385,6 @@ to redo them using concrete, because the height is not mentioned in
 the floor plan they cannot be too big.  I send Mr. Klugsberger and
 Mr. Röth the specifications of the parquet.
 
-
 September 21
 ------------
 
@@ -411,7 +392,6 @@ Mr. Klugsberger send us two estimations for the layering of the
 parquet from the two companies that we consulted.  It results that we
 sent the wrong specifications, the estimation that we have are much
 cheaper.
-
 
 September 22
 -----------
@@ -421,14 +401,12 @@ our intention to cover all the additional costs, a different parquet
 will be installed.  We have to do that before September, 26th; if we
 agree, the apartment will be delivered on October 16th.
 
-
 September 24
 ------------
 
 Mr. Röth write to Mr. Klugsberger.  He proposes that steps would be
 realized in concrete and that the additional costs would be halved
 between us and Fourreal.
-
 
 September 26
 ------------
@@ -453,7 +431,6 @@ same day, we write to Mr. Klugsberger and Ms. Orgovanyi-Honstein the
 statement they required: we will pay 2000 Euro in order to have the
 apartment delivered on October 16th.  We also explain our reasons.
 
-
 October 11th
 ------------
 
@@ -461,12 +438,10 @@ No reply from Mr. Klugsberger and Ms. Orgovanyi-Honstein.  All the
 works on construction site seems to be stopped.
 I write them again.
 
-
 October 14th
 ------------
 
 Mr. Röth write to Mr. Klugsberger, asking for explanations.
-
 
 October 17th
 ------------
@@ -479,7 +454,6 @@ of the long period needed to dry, but he does not specify how long it
 will take.  In these days we also receive a formal list of costs from
 Mr. Unger, in which are mentioned 1600 Euro for the layering of the
 parquet as a forfeit price.
-
 
 October 20th
 ------------
@@ -495,20 +469,17 @@ November.  We agree that I and my wife will come in the evening to
 verify the material.  When we come, Mr. Unger is not here.  I write to
 Mr. Klugsberger suggesting as a date for the Abnahme November, 11th.
 
-
 October 26th
 ------------
 
 No reply from Mr. Klugsberger.  I write him again.  Ms. Martins says
 that, for personal reason, she is not available on November, 11th.
 
-
 November 1st
 -------------
 
 Ms. Martins write to Mr. Klugsberger observing that the works we
 planned in the last meeting are not done.
-
 
 November 3rd
 ------------
@@ -525,14 +496,12 @@ Ms. Martins confirms the date for meeting with the carpenter (7.11)
 and the Abnahme (15.11), provided that the remaining work has been
 completed.
 
-
 November 7th
 -------------
 
 I, my wife and Ms. Martins go to the site at 16:00 for the meeting
 with the carpenter but he is not there.  We ask the worker, but they
 do not know about that meeting.
-
 
 November 8th
 -------------
@@ -543,7 +512,6 @@ reply to Mr. Klugsberger that this is a lie and that she fixed an
 appointment for the following day.  If that will not work, the date of
 November, 15th will be used to evaluate the material.  Mr. Klugsberger
 reply that he will be on site the following day.
-
 
 November 9th
 ------------
@@ -562,7 +530,6 @@ clear that she was not informed that a written approval was needed and
 that it is clear that the Abnahme can not take place at the planned
 date.  She ask for an alternative.
 
-
 November 15th
 -------------
 
@@ -571,7 +538,6 @@ that the Abnahme can not take place in the planned date.  She propose
 November, 18th as alternative.  Ms. Martins says she is not available
 and propose November, 21th or 23th as alternatives.  We confirm
 November, 21th at 16:00.
-
 
 November 17th
 -------------
@@ -708,7 +674,6 @@ March 10th
 I come home early from work, together with my wife, waiting for the
 workers of the new company.  Nobody comes.
 
-
 March 31th
 ----------
 
@@ -759,6 +724,11 @@ Another document attached is an 'Abnahmeprotokoll' by Mr. Roloff, that
 list some defects of the common properties.  However, there are a lot
 of defect not listen; also because the works are still going on, and
 it is not clear what could be fixed before the date of the acceptance.
+
+In the following days, we have some talks with the owner of other
+flats.  No one seems to be satisfied with fourreal.  Some people
+declare that they will not go to the acceptance some other says
+that they will go.
 
 July 10th
 ---------

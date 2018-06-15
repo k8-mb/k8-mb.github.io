@@ -11,25 +11,25 @@ tile: "Meeting fourreal: Mr. Klugsberger"
 I meet someone from fourreal for the first time on 17 August 2016.
 After being called by Mr. Unger, of the construction company _Kassim
 Mauer Bau GmbH_, I go to the construction site, and I found
-Mr. Andreas Klugsberger, that introduce himeself as a fourreal's
+Mr. Andreas Klugsberger, that introduce himself as a fourreal
 employee.  And he says there is a problem.
 
 Apparently, the parquet has been delivered, and it is not correct.  He
-explains to us, that our contract specify a "parkett-dielen' while the
-one we choose is "massiv-parkett".  He claims that we can choose a
-undistinguable "parkett-dielen", otherwise the additional costs for
-the installations will be charged to us.
+explains to me and my wife, that our contract specify a _parkett-dielen_
+while the one we choose is _massiv-parkett_.  He claims that we can
+choose a _parkett-dielen_, indistinguishable from the one delivered,
+otherwise the additional costs for the installations will be charged to us.
 
 Mr. Klugsberger is not able to quantify the cost, and suggest to go
 back to the parquet shop and choose another product.  He say that we
-can have the wood we choose as a "dielen".  I insist for an
-extimation, since I prefer a glued solution for several reasons, not
+can have the wood we choose as a _dielen_.  I insist for an
+estimation, since I prefer a glued solution for several reasons, not
 last, it is more indicated for underfloor heating.  The more I ask for
 precise information, the more Mr. Andreas ["Lionel Hutz"][hutz]
 Klugsberger insists that the parquet we ordered is not what we want,
 and the one he propose is better.
 
-Interstingly, I and my wife ordered the parquet on 28.05.2016, in the
+Interestingly, I and my wife ordered the parquet on 28.05.2016, in the
 shop indicated to us by Mr. Unger, and we brought immediately the
 specifications to him.  However, we had to wait for the delivery, to
 understand that something is wrong.  It is pretty interesting that
@@ -45,9 +45,9 @@ contractual obligations is for the first of October.
 The following day, Mr. Unger send an SMS (yes, an SMS!) to my wife, in
 which he says that the additional cost for the layering of the parquet
 amount to € 3493.  So, we come back to the parquet shop, and verify
-that the parquet we choose is not "massiv-parkett", but is
-"schiffsböden".  The specific one we choose can not be installed as
-"dielen" (floating installation), but it need to be glued.  We choose
+that the parquet we choose is not _massiv-parkett_, but is
+_schiffsböden_.  The specific one we choose can not be installed as
+_dielen_ (floating installation), but it need to be glued.  We choose
 it by purpose, because it is less noisy and works much better with the
 underfloor heating system.  Using a floating installation with
 underfloor heating system needs specific precautions, including a

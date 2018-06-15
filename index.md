@@ -3,8 +3,6 @@ layout: home
 list_title: "Chronicles"
 ---
 
-# Fourreal in Berlin
-
 > A lie has no legs, and cannot stand; but it has wings,
 > and can fly far and wide.
 >

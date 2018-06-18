@@ -15,10 +15,14 @@ Mr. Andreas Klugsberger, that introduce himself as a fourreal
 employee.  And he says there is a problem.
 
 Apparently, the parquet has been delivered, and it is not correct.  He
-explains to me and my wife, that our contract specify a _parkett-dielen_
-while the one we choose is _massiv-parkett_.  He claims that we can
-choose a _parkett-dielen_, indistinguishable from the one delivered,
-otherwise the additional costs for the installations will be charged to us.
+explains to me and my wife, that our contract specify a
+_parkett-dielen_ while the one we choose is _massiv-parkett_.  He
+claims that we can choose a _parkett-dielen_, indistinguishable from
+the one delivered, otherwise the additional costs for the
+installations will be charged to us.  _Diele_ means "floorboard", and,
+in my understanding, _parkett-dielen_ is the term used for a floating
+installation, in which the floorboard are angle-engaged with a "click"
+system.
 
 Mr. Klugsberger is not able to quantify the cost, and suggest to go
 back to the parquet shop and choose another product.  He say that we
@@ -47,21 +51,21 @@ which he says that the additional cost for the layering of the parquet
 amount to € 3493.  So, we come back to the parquet shop, and verify
 that the parquet we choose is not _massiv-parkett_, but is
 _schiffsböden_.  The specific one we choose can not be installed as
-_dielen_ (floating installation), but it need to be glued.  We choose
-it by purpose, because it is less noisy and works much better with the
-underfloor heating system.  Using a floating installation with
-underfloor heating system needs specific precautions, including a
-layer of sand, to prevent thermal insulation that would cause the
-heating system to be very inefficient and expensive.
+_dielen_, but it need to be glued.  We choose it by purpose, because
+it is less noisy and works much better with the underfloor heating
+system.  Using a floating installation with underfloor heating system
+needs specific precautions, including a layer of sand, to prevent
+thermal insulation that would cause the heating system to be very
+inefficient and expensive.
 
 We also procure ourselves a list of companies that could proceed with
 the installation of the parquet.  We call Mr. Unger asking him to keep
 the material, because we are considering hiring another company to
 proceed with the installation.  Mr. Unger immediately calls us for a
 meeting, the very same day (23th August 2016).  In the meeting is
-present Mr. Klugsberger tell us that it would be possible to call
-another company, but it would have some complications: namely the need
-to track the liability of each company that works on the site.
+present Mr. Klugsberger, that tell us that it would be possible to
+call another company, but it would have some complications: namely the
+need to track the liability of each company that works on the site.
 
 In order to avoid such complication he makes us an offer: fourreal
 will install the parquet we choose, up to 36 €/m² and we will pay the
@@ -73,12 +77,12 @@ installations.  From its descriptions it seems they have no intention
 to keep in account the underfloor heating system.
 
 In the very same meeting, Mr. Klugsberger tell us that the parquet is
-not a good choice for the stairs that have been added to our contract
-at the last minute.  He proposed a covering of solid wood, and showed
-us some pictures from his laptop.  We ask for a documentation of the
-alternatives, and Mr. Klugsberger promise that Mr. Unger would have
-sent to us a written offer with the prices for the parquet and the
-covering of the stairs.
+not a good choice for the step we will have in the entrance door.
+These steps are been added to our contract at the last minute.  He
+proposed a covering of solid wood, and showed us some pictures from
+his laptop.  We ask for documentation and prices, and Mr. Klugsberger
+promise that Mr. Unger would have sent to us a written offer for the
+parquet and the covering of the steps.
 
 The following day, no news.  In the meantime I checked our contract,
 and there is no mention of _parkett-dielen_, I write to
@@ -90,44 +94,45 @@ Further four day later, no reply.
 
 I write again to Mr. Klugsberger and to fourreal,
 [describing][mail-20160830] the situation.  Mr. Klugsberger reply me,
-apologizing for the delay, and telling me that *everything is fine
-with the wooden floor*.  He admit he was wrong talking about
+apologizing for the delay, and telling me that _everything is fine
+with the wooden floor_.  He admit he was wrong talking about
 _parkett-dielen_, therefore fourreal will pay the € 280 needed for the
 layering.  However he insist that we have to discuss with Mr. Unger
-about our "special request" regarding the stairs.
+about our "special request" regarding the steps.
 
 I point out that it is no our special request, but his suggestion; and
-that I want a *written* offer. Also I inform him that is quite
+that I want a _written_ offer. Also I inform him that is quite
 difficult for us to have so many meeting, and I see no reason to
 discuss the subject by mail.  After few hours, at 2 pm, Mr. Unger
 calls my wife by phone, calling for a meeting immediately.  My wife
 refuse, but Mr. Unger insists until they fix an appointment at 6 pm.
 
 It seems that Mr. Klugsberger is trying to avoid written
-communications at any cost.  Of course that does not make him
-particularly trustworthy.
+communications at any cost.  That does not make him particularly
+trustworthy.
 
 At the appointment Mr. Klugsberger and Mr. Unger tell us that we have
 to pay € 2800 for the layering of the parquet and € 400 for the
-covering of the stairs, otherwise the stairs will be covered by tiles.
+    covering of the steps, otherwise the steps will be covered by tiles.
 
-All of this *without any written justification*.  They shows only a
+All of this _without any written justification_.  They shows only a
 screen on Mr. Unger's laptop, that show a total expenses for us of
 more that € 6000, including the installations of the tiles in the
-bathroom.  According to fourreal, only the shower is covered by tiles,
-because that the way it is done in Austria.
+bathroom.  We discovered later that, according to fourreal, only the
+shower is covered by tiles, because that the way it is done in
+Austria.
 
 It is clear that the situation is getting kafkesque, but we try to
 concentrate on the wooden floor.
 
-They insist that we have ordered "massiv-parkett", that it is not
+They insist that we have ordered _massiv-parkett_, that it is not
 allowed by the contract, and that it needs a complicate works of
 sanding and oiling.  I object it cannot be true, because the parquet
 we ordered is already lacquered.  We have chosen it on purpose,
 because it is has to be used in the kitchen too.  I have the
 specification with me, by they refuse to check, they say they already
 inspected the material, and I don't know what I am talking about.
-With regard the stairs, they say that they are a standard components
+With regard the steps, they say that they are a standard components
 and they are covered by tiles, no matter that our contract says that
 the whole flat has a wooden floor, with the only exception of the
 bathroom.
@@ -144,3 +149,4 @@ It took several other weeks to have finally our parquet installed, but this will
 
 [hutz]: https://youtu.be/-Nc88_ZEfxg
 [delay]: https://www.instagram.com/p/BkC3htplI0H/
+[mail-20160830]: /assets/docs/mails/20160830.1-to.pdf

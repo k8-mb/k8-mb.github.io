@@ -17,7 +17,7 @@ currently in a court proceeding against them.  We are not the only
 ones that needed the help of lawyers and courts while dealing with
 fourreal.
 
-A court can only help us is seeing the border between legal and
+A court can only help us in recognize the border between legal and
 illegal.  I am writing these chronicles to explore borders more
 blurred: the ones between professional and amateurish, polite and
 cocky, cunning and sneaky, reasonable and greedy.

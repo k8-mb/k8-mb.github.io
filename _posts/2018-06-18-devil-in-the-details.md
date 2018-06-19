@@ -3,12 +3,12 @@ layout: post
 title: "The Devil is in the Details"
 ---
 
-> Strategy equals execution. All the great ideas and visions in the
-> world are worthless if they can't be implemented rapidly and
-> efficiently. Good leaders delegate and empower others liberally, but
-> they pay attention to details, every day.
-> 
-> -- Colin Powell
+> Being busy does not always mean real work. The object of all work is
+> production or accomplishment and to either of these ends there must
+> be forethought, system, planning, intelligence, and honest purpose,
+> as well as perspiration. Seeming to do is not doing.
+>
+> -- Thomas Edison
 
 The construction of our flat and, as far as I know, of all other
 properties in the building has been done by _Kassim Maher Bau GmbH_,
@@ -80,11 +80,31 @@ mistaken the fridge for the oven, so made the outlet in the opposite
 site of the kitchen and much higher of where it should be.  Of course
 they had to do it again, and in the end we have not payed for it.
 
-The other issue, the shower stall, the gate, the corner and the pocket
+The other issues, the shower stall, the gate, the corner and the pocket
 door are at the moment object of our court proceeding.  The basic
 approach of fourreal is that they are not defects either because not
 specified in the contract either because they are consequence of our
 choices.
+
+With the regard the shower stall, they claim that it has been our
+choice.  We have asked for a bigger shower area, and we sign a
+document, attached to the contract.  The document mention a bigger
+shower stall.  According to fourreal's lawyer, the wording "shower
+stall" imply a step, so we are the one who asked for it.
+
+They have a similar approach for the pocket door.  When they were
+about to install the door, we discovered that it would not have been a
+pocket-door (inside the wall), but an external sliding door.  Than
+means that one side of the wall would have been unusable, and we
+planned to have the fridge here.  So we asked to not have the door at
+all.  I think it is difficult to call this a request from our.
+
+Finally, for the gate, they say that constructio authorities forbid
+the realization of such a gate.  They have never shown us any
+documentation.  We asked in several offices, and everybody told us
+that there are no problem in having a gate.
+
+Let's see what the court will decide.
 
 [e-mail]: /assets/docs/mails/mail-20160831.pdf
 [unger-declaration]: /assets/docs/unger_declaration-20160914.pdf

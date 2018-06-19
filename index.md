@@ -13,8 +13,8 @@ Vienna and Berlin.
 
 I and my wife bought an apartment in Berlin from _fourreal K8 GmbH &
 Co KG_, one of the affiliates of the _fourreal group_.  We are
-currently in a court proceeding against them.  e are not the only ones
-that needed the help of lawyers and courts while dealing with
+currently in a court proceeding against them.  We are not the only
+ones that needed the help of lawyers and courts while dealing with
 fourreal.
 
 A court can only help us is seeing the border between legal and

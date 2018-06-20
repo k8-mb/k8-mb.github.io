@@ -3,12 +3,8 @@ layout: post
 title: "Size Does Matters"
 index: 1
 ---
+![size](/assets/covers/home-1353389_640.jpg)
 
-> Geometry is almost the only subject as to which we find truths
-> wherein all men agree; and one cause of this is, that geometers
-> alone regard the true laws of demonstration.
->
-> -- Blaise Pascal
 
 The flat we bought from fourreal has been shown to us by the real
 estate agent, Mr. Jendrzejewski.  He used

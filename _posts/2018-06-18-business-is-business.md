@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Business is Business"
-published: true
+published: false
 index: 3
 ---
-
-> Business, you know, may bring money, but friendship hardly ever does.
->
-> -- Jane Austen
+![house-money](/assets/covers/house-construction-1005491_640.jpg)
 
 After a couple of month of negotiation with fourreal, I decide to hire
 a lawyer.  I would say I am forced: it is crystal clear that fourreal

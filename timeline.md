@@ -2,6 +2,7 @@
 layout: page
 title: "Timeline"
 ---
+![date](/assets/covers/date-change-1927555_640.png)
 
 This a diary of events related to the apartment in Kärntener Straße, Berlin,
 owned by me, Marco Benelli, and my wife.

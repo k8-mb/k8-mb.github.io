@@ -3,11 +3,7 @@ layout: post
 tile: "Meeting fourreal: Mr. Klugsberger"
 index: 2
 ---
-
-> Though silence is not necessarily an admission, it is not a denial, either.
->
-> -- Cicero
-
+![deceive](/assets/covers/deceive-1299043_640.png)
 
 I meet someone from fourreal for the first time on 17 August 2016.
 After being called by Mr. Unger, of the construction company _Kassim
@@ -114,7 +110,7 @@ trustworthy.
 
 At the appointment Mr. Klugsberger and Mr. Unger tell us that we have
 to pay € 2800 for the layering of the parquet and € 400 for the
-    covering of the steps, otherwise the steps will be covered by tiles.
+covering of the steps, otherwise the steps will be covered by tiles.
 
 All of this _without any written justification_.  They shows only a
 screen on Mr. Unger's laptop, that show a total expenses for us of

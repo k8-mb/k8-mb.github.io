@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Size Does Matters"
+index: 1
 ---
 
 > Geometry is almost the only subject as to which we find truths

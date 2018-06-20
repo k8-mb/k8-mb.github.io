@@ -1,6 +1,7 @@
 ---
 layout: post
 tile: "Meeting fourreal: Mr. Klugsberger"
+index: 2
 ---
 
 > Though silence is not necessarily an admission, it is not a denial, either.

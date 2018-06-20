@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Devil is in the Details"
+index: 4
 ---
 
 > Being busy does not always mean real work. The object of all work is

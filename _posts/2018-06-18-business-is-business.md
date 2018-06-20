@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Business is Business"
-published: false
+published: true
+index: 3
 ---
 
 > Business, you know, may bring money, but friendship hardly ever does.

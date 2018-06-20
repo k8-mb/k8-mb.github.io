@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Devil is in the Details"
+title: "Men at Work"
 index: 3
 ---
 ![sadness](/assets/covers/sadness-451917_640.jpg)

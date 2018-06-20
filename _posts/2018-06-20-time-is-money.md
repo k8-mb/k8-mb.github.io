@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time is Money"
-index: 3
+index: 4
 ---
 ![house-money](/assets/covers/house-construction-1005491_640.jpg)
 

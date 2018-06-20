@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Devil is in the Details"
-index: 4
+index: 3
 ---
 ![sadness](/assets/covers/sadness-451917_640.jpg)
 

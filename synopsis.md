@@ -1,44 +1,91 @@
 ---
 layout: page
 title: "Synopsis"
-published: false
 ---
 
-I cannot say that dealing with fourreal is a pleasant experience.
+![fourreal](/assets/covers/ruin-2108239_640.jpg)
 
-They added a new floor plan to the contract at the last minute, when
-we met by the notary to sign it.
+Dealing with fourreal is really daunting.
 
-They have provided different contracts to us and to the construction
-company, and when the discrepances emerged, they carried on a
-negotiations with us, pretending they were not involved.  Later on,
-they blamed us for that.
+In the beginnig they called me and my wife for a lot of meetings with
+the construction company in which they could give us false
+information.  Each time I sent a mail, they called a meeting.  Then,
+they pretended to have nothing to do with that, and blamed us to have
+stepped over them in dealing with the construction company.
+Unfortunately for them, there are enough evidence that they have been
+involved, so they have been forced to repeat most of their false
+statements, in written form.
 
-By the way, they hired the most unprofessional construction companies
-that you can imagine, that was absolutely unable to write or document
-anything, and used to works without any care for quality or their own
-security.
+They do not reply to e-mails, they show no respect for their customer
+time.  They always call appointments with short notice, one or two
+day, and often they do not come.They are cocky: the few time they come
+to the appointment they complain that they are wasting time and
+_their_ time is money.
 
-They systematically refuse to communicate properly: most requests by
-e-mail remain unanswered, most appointment ignored.
+They hire the cheapest contractors available on the market, and seems
+to forget that their are responsible for their contractors.
 
-They are very cocky: always overconfident about their claims, to the
-point of calling for nonsense at each objection.  Almost always, facts
-proves them wrong, but their apprach do not change.
+They are in an ambiguous situation: Mr. Klugsberger is both their
+employee and the directing manager of _PeakReal GmbH_, that acts as
+real estate agent for the project in Kärntener Straße.  Is it not a
+conflict of interests?  Well, maybe not, there is no conflict, only
+interests.  I am surprise it is allowed by the law.
 
-They sent us false documents, claiming that our four-floors building
-is not higher that seven meters, and, as such, it does not need a
-static proof.  When I raised the objections, their lawyer send me the
-very same document again.
+Their have sent us false documents, regarding the stating proof of our
+building.  They claimed that our four-floor building is less that
+seven meters high, and so do not require static-proofing.  We pointed
+out the "mistake" and they sent the same document again.  Now we know
+the static proofing exists, but it has been registered later.
 
-They deposited an amount of money instead of finishing the works of
-the commonly owned property, regardless they do not have the
-authorization of all the owners.  Again, it is almost impossible to
-have a clarification.
+They added a floor plan to the contract at the last minute, when we
+met by the notary to sign it.  The new floor plan has no measures for
+singles rooms, contrarly to the one used until this point.  The
+bathroom and bedroom are much smaller than originally indicated.
 
-Most people says that is pretty normal in the real estate market.
-Maybe most operator of the market are cunning businessmen.  Maybe it
-is a market that is full of scammers.  But I strongly doubt that the
-mix of sneakiness and incompetence showed by fourreal is that common.
-And it is sad that the current state of the market let them
-survive. But maybe that will not be the case.
+We choose a parquet following their instructions.  As agreed, we pay
+the difference in the material.
+
+They told us the parquet we choose would have required a very
+complicated installation, with sanding and oiling.  That is false.
+Not only they asked for almost € 3000, they would have ruined our,
+lacquered, parquet.  We had to hire a lawyer and an architect to being
+able to have our parquet installed.
+
+We expected the step added in the floor-plan at the last minute to be
+in concrete.  We also offered to share the expenses.  They fooled us
+becasue we use the word "cement" instead "concrete".  They told us
+that making the step in concrete in nonsense, and every expert would
+have confirmed their opinion.  When I asked for the opinion of _their_
+expert, he said that a prebuild "podestum" in concret (not that we
+asked for), would have require an additional static proof, and that it
+was "too late" (without further explanation), for concrete casting.
+This certifications come after two months of negotiation on the issue.
+
+The contract specify two distincs outlets for the cooking-plan and the
+oven.  They realized only one.  When I asked, they did not know what
+the contract specify.  Instead of making another outlet near the
+existing one, as I asked, they wanted me to send them the kitchen
+plan, and they misinterpreted the fridge for the oven, making the
+outlet in the wrong place.
+
+The wall in the kitchen has a corner not indicated in the floor plan.
+That made the planning and realization of the kitchen more expensive.
+They say that the planning of the kitchen has been concordated with
+them, as proved by the fact we sent the kitchen plan.  By the way, the
+wall is not straight.
+
+The shower is much cheaper of the one specfied in the purchase
+contract.  It is installed over a step, of which we have not been
+informed.  There should have been a pocket door that has not been
+realized, so, there is no separation between the _day_ areas and the
+_night_ areas.  There should be a gate that has never been realized.
+fourreal refuse to realize it.  The whole terrace is on a step that
+has never been indicated.
+
+A lot of other things has been poorly realized: some doors does not
+close or does not open properly, the ringbell has not worked for one
+year, we already have damages by moisture, and the list would be very
+long.
+
+Each of the issues outlined here will be expanded in the future, in
+the chronicles, and it will take a lot of time.

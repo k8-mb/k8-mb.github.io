@@ -55,17 +55,12 @@ Mrs. Orgovanyi-Hanstein, co-owner and executive manager of the fourreal
 group.  I hope that we finally can met someone more professional.
 
 The first thing that Mrs. Orgovanyi-Hanstein says is that our contract
-specify _parkett-dielen_.  I am not impressed.  Luckily enough,
-Mr. Klugsberger immediately shout her mouth.  In feeling relieve
-after an action of Mr. Klugsberger, I realize that things are going
-south.
-
-Indeed they are.  They repeat the same story: "you have negotiated
-with Mr. Unger a parquet different from the specifications". Which
-specification? It should be Oak instead of Walnuts? Ok, we pay the
-difference, we already said we will do.  Since the price of the
-material is indicated in the contract, it shouldn't be a problem to
-choose another one.
+specify a floating installation of the parquet.  I am not impressed.
+They repeat the same story: "you have negotiated with Mr. Unger a
+parquet different from the specifications". Which specification? It
+should be Oak instead of Walnuts? Ok, we pay the difference, we
+already said we will do.  Since the price of the material is indicated
+in the contract, it shouldn't be a problem to choose another one.
 
 And I point out that I send them an e-mail time ago, and they replied
 that "everything is fine with the wooden floor".  But now it seems
@@ -75,11 +70,10 @@ and so on.
 
 Mrs. Orgovanyi-Hanstein starts to complain that we are wasting her
 time, and for her "time is money".  Again, I am not impressed.  What
-about _my_ time.  Anyway, they invited us telling that we would have
-signed a contract, but now, they ask us to _contribute_ for an amount
-of € 2000.  Ok, we accept, mostly because we need to relocate in our
-new flat as soon as possible.  We agree that we would have send the an
-e-mail with our intention to pay.
+about _my_ time?  They ask us to _contribute_ for an amount of € 2000.
+We accept, mostly because we need to relocate in our new flat as
+soon as possible.  We agree that we would have send the an e-mail with
+our intention to pay.
 
 Then they start to talk about the steps.  Which they want to realize
 in wood, and we want in concrete.  They have a lot of fun because I
@@ -90,8 +84,8 @@ someone that propose something like that does not know what is talking
 about.  And the poor Mrs. Orgovanyi-Hanstein is forced to waste her
 precious time with foll like that.
 
-They have their fun, they I ask: "Ok, we agree that we do not want to
-make the steps in cement. What about concrete?" They continue laughing,
+They have their fun, they I ask: "We agree that we do not want to make
+the steps in cement. What about concrete?" They continue laughing,
 because of course, concrete is too heavy and the idea itself is
 nonsense.
 
@@ -111,8 +105,9 @@ It does not sound like nonsense.  Considering we are talking about
 that since months, I could deduce that they wasted time by purpose, in
 order to be legitimized to realize the cheapest solution.
 
-In any case, we [accepted][mail-20160927] to pay for the parquet, and we will have the
-step in woods.  We lost on all front. Well, it is not _that_ bad, but this the subject of the next chronicle. 
+In any case, we [accepted][mail-20160927] to pay for the parquet, and
+we will have the step in woods.  We lost on all front. Well, it is not
+_that_ bad, but this the subject of the next chronicle.
 
 
 [delay]: https://www.instagram.com/p/BkC3htplI0H/

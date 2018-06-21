@@ -74,16 +74,16 @@ the end, we didn't worry at all about the measures, also because the
 original floor-plan was part of a folder that present the seal from
 the notary, so, we thought it was part of the contract anyway.
 
-We discover later, that, since folder containing the original
-floor-plan has not been signed, it is not part of the contract.  At
-least, that is the position of fourreal.  I doubt the questions is
-that simple.  Even if it is true (and not being a lawyer, I have to
-authority on the matter), it seems to me that they have provided to us
-false information.  Of course, part of it could be attributed to the
-real estate agency, Bewocon, but fourreal itself sent us the plan in
-the draft of the contract, and in the set of documents of which the
-purchase contracts belongs, so there is no reason to doubt that
-Bewocon used measures provided by fourreal.
+We discover later, that the folder containing the original floor-plan
+is not part of the purchase contract, but of the _Teuilungserklärung_
+(declaration of division). I doubt the questions is that simple.  Even
+if it is true that they are not bounded by such declaration (and not
+being a lawyer, I have no authority on the matter), it seems to me
+that they have provided to us false information.  Of course, part of
+it could be attributed to the real estate agency, Bewocon, but
+fourreal itself sent us the plan in the draft of the contract, and in
+the set of documents of which the purchase contracts belongs, so there
+is no reason to doubt that Bewocon used measures provided by fourreal.
 
 I understand that a seller can not control each detail of the
 implementation, but i do not think we are talking about details here.
@@ -93,9 +93,15 @@ they should have been particularly careful in following their works.
 And when things went wrong, they should have assumed their own
 responsibilities.
 
+Speaking of responsability, it is worth noting that
+I [met][meeting-fourreal] fourreal only in the middle of August, when
+the material for our wooden floor has been delivered.  Apparently,
+they did not bother to check the proceeding of the works before of
+that event.
+
 [floor-plan-1]: https://www.instagram.com/p/Bj5VwBMlXSQ/
 [floor-plan-2]: https://www.instagram.com/p/Bj5V6CLlN3H/
-[meeting-fourreal]: /2018/06/15/meeting-fourreal.html
+[meeting-fourreal]: {% post_url 2018-06-15-meeting-fourreal %}
 [measures]: https://www.instagram.com/p/Bj5WEmVlLM6/
 [washing-bowl]: https://www.instagram.com/p/Bj5WSRtFtrt/
 [bathroom-customizations]: /assets/docs/k8-modifications.pdf

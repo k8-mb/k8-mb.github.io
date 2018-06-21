@@ -142,8 +142,9 @@ Because of that, they will be not able to honor the deadline stated in the purch
 
 Indeed, they are late.  The flat should have been delivered by the first of October. It is not ready, and, of course, not because of the wooden floor, that, by they way, can be installed as last thing.  On the 12 October, two weeks after the delivery date, there are [many thing][delay] missing: no bathroom, no internal doors, no terrace.
 
-It took several other weeks to have finally our parquet installed, but this will be the subject of another post.
+It took several other weeks to have finally our parquet installed, but this will be the subject of [another story][time-is-money].
 
 [hutz]: https://youtu.be/-Nc88_ZEfxg
 [delay]: https://www.instagram.com/p/BkC3htplI0H/
 [mail-20160830]: /assets/docs/mails/20160830.1-to.pdf
+[time-is-money]: {% post_url 2018-06-20-time-is-money  %}

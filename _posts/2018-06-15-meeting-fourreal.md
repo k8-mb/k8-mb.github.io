@@ -24,8 +24,7 @@ system.
 Mr. Klugsberger is not able to quantify the cost, and suggest to go
 back to the parquet shop and choose another product.  He say that we
 can have the wood we choose as a _dielen_.  I insist for an
-estimation, since I prefer a glued solution for several reasons, not
-last, it is more indicated for underfloor heating.  The more I ask for
+estimation, since I prefer a glued solution.  The more I ask for
 precise information, the more Mr. Andreas "[Lionel Hutz][hutz]"
 Klugsberger insists that the parquet we ordered is not what we want,
 and the one he propose is better.
@@ -49,11 +48,7 @@ amount to € 3493.  So, we come back to the parquet shop, and verify
 that the parquet we choose is not _massiv-parkett_, but is
 _schiffsböden_.  The specific one we choose can not be installed as
 _dielen_, but it need to be glued.  We choose it by purpose, because
-it is less noisy and works much better with the underfloor heating
-system.  Using a floating installation with underfloor heating system
-needs specific precautions, including a layer of sand, to prevent
-thermal insulation that would cause the heating system to be very
-inefficient and expensive.
+it is less noisy.
 
 We also procure ourselves a list of companies that could proceed with
 the installation of the parquet.  We call Mr. Unger asking him to keep
@@ -70,8 +65,7 @@ difference to the total cost, that, according to Mr. Unger is 40 €/m².
 We agreed to pay 4 €/m², for a total amount of € 280. Mr. Klugsberger
 shows us the contract of Mr. Unger, with the _parkett-dielen_ wording
 and explain us the differences between _floating_ and _glued_
-installations.  From its descriptions it seems they have no intention
-to keep in account the underfloor heating system.
+installations.
 
 In the very same meeting, Mr. Klugsberger tell us that the parquet is
 not a good choice for the step we will have in the entrance door.

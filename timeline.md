@@ -6,25 +6,41 @@ title: "Timeline"
 
 This a diary of events related to the apartment in Kärntener Straße, Berlin,
 owned by me, Marco Benelli, and my wife.
-It is done mostly to keep track of all the unsanswered mails, false statements and ambiguous reply dispensed by fourreal.
+It is done mostly to keep track of all the unanswered mails, false statements and ambiguous reply dispensed by fourreal.
 It is intended to be a work in progress.
 
 2016
 ====
 
+February, 10th
+--------------
+
+We meet the real estate agent, Mr. Jendrzejewski of _Bewocon GmbH_ for
+the first time, on the construction site.  He show us what will be our
+flat.  However, there are no internal walls, no floor, no roof. He
+show us the floor plan and the brochure. He explain the procedure that
+we have to follow for buying the property.
+
+In the following weeks, we sign a pre-contract and pay a deposit.  We
+ask for some modification in the bathroom: we do not want the
+bath-tube, but we want a larger shower area and a bidet.
+Our requests are formalized to become part of the purchase contract.
+We arrange a date to sign the contract by the notary.
+
 May, 4th
 -------
 
-We sign the contract; representing the seller, Fourreal GmbH, there is
-Mr. Jendrzejewski of the real estate agency, Bewocon.  We are told
-that, due to building necessities, there will be two steps on the main
-door.  We sign a floor plan that becomes part of the contract.  We
-notice that the bathroom will be only partially covered by tiles and
-that there is no valve in the garden.  Mr. Jendrzejewski tell us to
-communicate every request to Mr. Mario Unger.  He tell us to call
-Mr. Unger to choose the parquet.  The notary confirms Mr. Jendrzejewski
-statements.  Mr. Jendrzejewski call by phone a employee of his company
-that send us an e-mail with Mr. Unger's phone number.
+We sign the contract; representing the seller, _fourreal K8 GmbH & Co
+KG_, there is Mr. Jendrzejewski.  He has been given power of attorney,
+since nobody from fourreal can be present.  We are told that, due to
+building need, there will be two steps on the main door.  We sign a
+floor plan that becomes part of the contract.  We notice that there is
+no valve in the garden.  Mr. Jendrzejewski tell us to communicate
+every request to Mr. Mario Unger, of the construction company.  He
+tell us to call Mr. Unger to choose the tiles of the bathroom and the
+parquet.  The notary confirms Mr. Jendrzejewski statements.
+Mr. Jendrzejewski call by phone a employee of his company that send us
+an e-mail with Mr. Unger's phone number.
 
 May, 5th-27th
 ------------
@@ -420,7 +436,7 @@ consultancy.
 September 27
 ------------
 
-We meet Mr. Klugsberger and Ms. Orgovanyi-Honstein on the working
+We meet Mr. Klugsberger and Mrs. Orgovanyi-Hanstein on the working
 site.  They say that Mr. Unger is asking 5700 Euro for the layering
 of the parquet.  They ask us to contribute for 2000 Euro.  They say
 again that it is not possible to realize the steps using concrete,
@@ -428,14 +444,14 @@ because it is too heavy.  I object that their statement is true only
 for a pre-build "podestum", but the step could be realized by casting
 the concrete.  They says it would be too heavy anyway.  I ask for a
 written statement about that, done by a qualified professional.  The
-same day, we write to Mr. Klugsberger and Ms. Orgovanyi-Honstein the
+same day, we write to Mr. Klugsberger and Mrs. Orgovanyi-Hanstein the
 statement they required: we will pay 2000 Euro in order to have the
 apartment delivered on October 16th.  We also explain our reasons.
 
 October 11th
 ------------
 
-No reply from Mr. Klugsberger and Ms. Orgovanyi-Honstein.  All the
+No reply from Mr. Klugsberger and Ms. Orgovanyi-Hanstein.  All the
 works on construction site seems to be stopped.
 I write them again.
 
@@ -550,16 +566,16 @@ confirm.
 November 21th
 -------------
 
-Abnahme.  Mr. Vogl told us that he will be on site the next friday,
+Abnahme.  Mr. Vogl told us that he will be on site the next Friday,
 the date on which our kitchen will be installed.
 
 November 25th
 -------------
 
-We pay the whole amount for the aparment.  The kitchen is installed.
+We pay the whole amount for the apartment.  The kitchen is installed.
 I assisted the installation, bringing with me the documents from the
 bank that demonstrate the payment.  However, Mr. Vogl is not present,
-and, when called, he refuse to autorize the construction company to
+and, when called, he refuse to authorize the construction company to
 give me the keys.
 
 November 28th
@@ -579,13 +595,13 @@ December 4th
 ------------
 
 The door is locked and we cannot access.
-We try to call Mr. Vogl and Mr. Unger, but no one ansewered.
+We try to call Mr. Vogl and Mr. Unger, but no one answered.
 
 December 6th
 ------------
 
 I write to Mr. Vogl and Mr. Klugsberger to inform them that the
-defects listed in the Abnahmeprotokoll are not solved yet.  I also ask
+defects listed in the Abnahme-protokoll are not solved yet.  I also ask
 them for compensations.  I receive no answer.
 
 December 12th
@@ -608,7 +624,7 @@ for a compensation of 87.066,11 €, to be payed not later than
 January 10th
 ------------
 
-Cellars are flooded, I write to Foureral, no anwer.
+Cellars are flooded, I write to Fourreal, no answer.
 
 January 11th
 ------------
@@ -622,22 +638,22 @@ The mail-boxes are installed.
 
 I wrote to Fourreal to inform them that we have not the key of the
 site where the mailboxes are.  Also I tell them that we have not
-received the protocoll about building administration, that the
-ringbell is not working and other unfinished works in the building.  I
+received the protokoll about building administration, that the
+ring-bell is not working and other unfinished works in the building.  I
 ask for information about the timeline of the remaining works.  No
 answer.
 
-Jackstadt receive a reply from Fourreal's lawyers, Krause Creutzburg &
-partner.  They says that the defects listed in the Abnahmeprotokoll
+Jakstadt receive a reply from Fourreal's lawyers, Krause Creutzburg &
+partner.  They says that the defects listed in the Abnahme-protokoll
 will be fixed by Kassim Maher Bau on 14.01.2017.
 
 January 14th
 ------------
 
 A worker of Kassim Maher Bau comes to our apartment and apply silicon
-in the pathroom and start fixing the scratchs on the door.  Mr. Unger
+in the bathroom and start fixing the scratches on the door.  Mr. Unger
 is present, he says us that the remaining works would have been done
-the next monday.  We fix an appointment for 16 o'clock
+the next Monday.  We fix an appointment for 16 o'clock
 
 January 16th
 ------------
@@ -649,19 +665,19 @@ March 8th
 ---------
 
 A new construction company comes.  They says they will fix the
-ringbell. They do not.
+ring-bell. They do not.
 
 March 9th
 ---------
 
-I write to Mr. Vogl and Mr. Klugsberger, asking for more transparence
+I write to Mr. Vogl and Mr. Klugsberger, asking for more transparency
 in the process, in particular, I would like to have name and contacts
-of the new contruction company, to communicate in written form and to
+of the new construction company, to communicate in written form and to
 provide an estimation of when and how the defects will be fixed.
 
-Mr. Klugsberger reply me that he has already fixed un appointment to
+Mr. Klugsberger reply me that he has already fixed an appointment to
 my wife to "find a reasonable solution", for the following day.
-However, my wife only agreed to let the worker fix the ringbell.
+However, my wife only agreed to let the worker fix the ring-bell.
 
 I reply, explaining that we already did our proposal in written form,
 and we are not satisfied by their reply.  If they have a
@@ -678,7 +694,7 @@ workers of the new company.  Nobody comes.
 March 31th
 ----------
 
-I receive a mail from someone kalled Karasu, from a _googlemail_
+I receive a mail from someone called Karasu, from a _googlemail_
 address, asking to keep the cellar open, because they have to work.  I
 ask to Mr. Vogl for confirmation.  He replay that the new construction
 manager is Mr. Massoud and the new new foreman is Mr. Karasau.  So, I
@@ -689,7 +705,7 @@ May 5th
 -------
 
 We receive a reply from the new lawyer of fourreal, Mr Ott.  Mr. Ott
-ask to the court for a prolungation of the procedure, since fourreal
+ask to the court for a prolongation of the procedure, since fourreal
 has changed the construction company.
 
 May 29th
@@ -706,22 +722,22 @@ Ms. Margeth-Theuer, from fourreal, reply me, explaining that the new
 construction company should have thought that our terrace is part of
 the common property.  That is very unlikely, since our terrace is
 fenced!  With nonchalance, she ask me when electrician can come to fix
-the ringbell.
+the ring-bell.
 
 Jun 29th
 --------
 
 We receive an e-mail with the invitation for the acceptance
-("abnahme") negotiation of the commonly owned properties.  A paper
+("Abnahme") negotiation of the commonly owned properties.  A paper
 copy will follow.  The date fixed is the 14.07.2017.
 
 It contain some documentation, mostly missing the signatures.  In
 particular there is a document that claims that the 'gartenhaus' --
 the building our flat belongs to -- is a building of class 3, and as
-such does not need a certificat about its static.  We checked, and
+such does not need a certificate about its static.  We checked, and
 building of class 3 are no higher that seven meters.  The 'gartenhaus'
-is a four-floor building, so undoubitably higher that seven meters.
-Another document attached is an 'Abnahmeprotokoll' by Mr. Roloff, that
+is a four-floor building, so indubitably higher that seven meters.
+Another document attached is an 'Abnahme-protokoll' by Mr. Roloff, that
 list some defects of the common properties.  However, there are a lot
 of defect not listen; also because the works are still going on, and
 it is not clear what could be fixed before the date of the acceptance.
@@ -743,7 +759,7 @@ July 13th
 ---------
 
 We have received no reply (We discovered later, that fourreal's
-lawyer, Mr. Ott, wrote the reply to our lawyer, Mr. Jackstadt the
+lawyer, Mr. Ott, wrote the reply to our lawyer, Mr. Kickstand the
 11.07.1017), so I write to Ms. Margeth-Theuer, asked if the acceptance
 negotiation would have been delayed.  She reply that it will take
 place as planned.  The reply from Mr. Ott said that everything was
@@ -753,7 +769,7 @@ October 30th
 ------------
 
 We receive an e-mail from Ms. Blankestein (the administrator), calling
-for the first owner metting.  Attached there is the draft of a
+for the first owner meeting.  Attached there is the draft of a
 contract that fourreal propose to the owners: it offers to leave a
 monetary deposit in substitution of the remaining works on the
 staircases.  The contract cite the acceptance negotiation of
@@ -770,7 +786,7 @@ I wrote to fourreal (and the other owners) explaining my objections.
 In the communication I explain that they invite us to the acceptance
 negotiation by sending us false documents, so I think they are liable
 for fraud.  We receive a reply from Mr. Ott, that warn us (both me and
-my wife) to not talk in such inquisitive term of foureal, and ask us
+my wife) to not talk in such inquisitive term of fourreal, and ask us
 to sign a document in which we declare that we will not do that
 anymore.
 
@@ -782,7 +798,7 @@ asked us to vote on the monetary deposit in substitution of remaining
 work.  That should be regulated by an agreement that should be signed
 by the owners.  According to the agreement, if not all the owner sign
 the agreement a new meeting is needed, and it will take place before
-the end of January 2018.  We vote favorevably to the proposal (after
+the end of January 2018.  We vote favorably to the proposal (after
 they proved in so many ways how they bring on their duties...), but we
 do not sign the contract, because it still references the meeting of
 14.07.2017 and because the amount indicated is far too small.  Also,
@@ -810,9 +826,9 @@ April 9th
 
 Fourreal deposit the money in the bank account of the administrator,
 ignoring that we have not signed the contract.  It seems they
-thinkthat the votation on the meeting would have been enough.
+think that the vote on the meeting would have been enough.
 
-However, every lawyer, technicial and public offical we asked
+However, every lawyer, technician and public official we asked
 confirmed they can not make the deposit.
 
 We call Ms. Blankestein, in the end she seems to realize that the

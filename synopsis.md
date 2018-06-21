@@ -7,15 +7,17 @@ title: "Synopsis"
 
 Dealing with fourreal is a daunting process.
 
-I have not seen anyone of fourreal until six week before the delivery
-date. And as soon as they appeared, they called me and my wife for a
-lot of meetings with the construction company.  During these meetings,
-they provided ambiguous, and sometime false, information.  They
-involved us in the negotiation with their contractors.  Then, they
-pretended to have nothing to do with that, and blamed us to have
-stepped over them in dealing with the construction company.  By the
-way, the workmanship of their contractors, make me think they are
-the cheapest on the market.
+I have not seen anyone of fourreal
+until [six week before the delivery][meeting-fourreal] date. And as
+soon as they appeared, they started calling me and my wife for a lot
+of meetings with the construction company.
+
+During these meetings, they provided ambiguous, and sometime false,
+information.  They involved us in the negotiation with their
+contractors.  Then, they pretended to have nothing to do with that,
+and blamed us to have stepped over them in dealing with the
+construction company.  By the way, the [workmanship][men-at-work] of
+their contractors, make me think they are the cheapest on the market.
 
 One of their employees, Mr. Klugsberger, is in an ambiguous situation:
 he is also the directing manager of _PeakReal GmbH_, that acts as real
@@ -29,11 +31,12 @@ four-floor building is less that seven meters high, and so do not
 require static-proofing.  We pointed out the "mistake" and they sent
 us the same document again.
 
-They added a modified floor plan to our purchase contract at the last
-minute, when we met by the notary to sign it.  The new floor plan has
-no measures for singles rooms, contrarily to the one used until this
-point.  In implementation of the flat, the bathroom and bedroom are
-much smaller than originally indicated.
+They added a [modified floor plan][floor-plan-2] to our purchase
+contract at the last minute, when we met by the notary to sign it.
+The new floor plan has no measures for singles rooms, contrarily
+to [the one used until this point][floor-plan-1].  In implementation
+of the flat, the bathroom and bedroom are much smaller than originally
+indicated.
 
 We have chosen a parquet following their instructions.  As agreed, we
 have paid the difference in the material. They told us the parquet
@@ -49,12 +52,14 @@ contract about the implementation, since there are no specification in
 the purchase contract.  We even offer to contribute to the expenses,
 if concrete would have been more expensive.  They told us that making
 the step in concrete in nonsense, and every expert would have
-confirmed their opinion.  When I asked for the opinion of _their_
-expert, he did not says that it would have been impossible.  He says
-that it was too late.  This certifications come after two months of
-negotiation on the issue.  Other experts I consulted told me that the
-certification itself is nonsense, and there is absolutely no problem
-in making them in concrete.
+confirmed their opinion. 
+
+When I asked for the [opinion of _their_ expert][roloff-stairs], he
+did not says that it would have been impossible.  He says that it was
+too late. This certifications come after two months of negotiation on
+the issue.  Other experts I consulted told me that the certification
+itself is nonsense, and there is absolutely no problem in making them
+in concrete.
 
 The contract specify two distinct outlets for the cooking-plan and the
 oven.  They realized only one.  When I asked, they did not know what
@@ -101,3 +106,10 @@ administration.
 
 Each of the issues outlined here will be expanded in the future, in
 this chronicles, but it will take a bit of time.
+
+
+[meeting-fourreal]: {% post_url 2018-06-15-meeting-fourreal %}
+[men-at-work]: {% post_url 2018-06-18-men-at-work %}
+[floor-plan-1]: https://www.instagram.com/p/Bj5VwBMlXSQ/
+[floor-plan-2]: https://www.instagram.com/p/Bj5V6CLlN3H/
+[roloff-stairs]: /assest/docs/roloff-stairs.pdf

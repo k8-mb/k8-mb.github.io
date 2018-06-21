@@ -23,7 +23,7 @@ One of their employees, Mr. Klugsberger, is in an ambiguous situation:
 he is also the directing manager of _PeakReal GmbH_, that acts as real
 estate agent for the project in Kärntener Straße.  He sends e-mails
 both as a fourreal's representative, both as a PeakReal's one, even if we
-never dealt with PearReal.  I am surprise it is allowed by the law.
+never dealt with PeakReal.  I am surprise it is allowed by the law.
 
 They have sent us unsigned certifications and false documents,
 regarding the legal status of our building.  They claimed that our

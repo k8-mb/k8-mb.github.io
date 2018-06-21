@@ -5,7 +5,7 @@ list_title: "Chronicles"
 
 ![cover](/assets/covers/browse-1019762_640.jpg)
 
-_Fourreal GmbH_ is a real estate company based in Vienna and operating in
+_fourreal GmbH_ is a real estate company based in Vienna and operating in
 Vienna and Berlin.
 
 I and my wife bought an apartment in Berlin from _fourreal K8 GmbH &

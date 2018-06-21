@@ -7,19 +7,20 @@ title: "Synopsis"
 
 Dealing with fourreal is a daunting process.
 
-In the beginning they called me and my wife for a lot of meetings with
-the construction company.  During these meetings, they provided
-ambiguous, and sometime false, informations.  They involved us in
-their tractative with their contractors.  Then, they pretended to have
-nothing to do with that, and blamed us to have stepped over them in
-dealing with the construction company.  By the way, the
-professionality of their contractors, make me think they are the
-cheapest on the market.
+I have not seen anyone of fourreal until six week before the delivery
+date. And as soon as they appeared, they called me and my wife for a
+lot of meetings with the construction company.  During these meetings,
+they provided ambiguous, and sometime false, information.  They
+involved us in the negotiation with their contractors.  Then, they
+pretended to have nothing to do with that, and blamed us to have
+stepped over them in dealing with the construction company.  By the
+way, the workmanship of their contractors, make me think they are
+the cheapest on the market.
 
 One of their employees, Mr. Klugsberger, is in an ambiguous situation:
-he is alse the directing manager of _PeakReal GmbH_, that acts as real
+he is also the directing manager of _PeakReal GmbH_, that acts as real
 estate agent for the project in Kärntener Straße.  He sends e-mails
-both as a fourreal's representat, both as a PeakReal's one, even if we
+both as a fourreal's representative, both as a PeakReal's one, even if we
 never dealt with PearReal.  I am surprise it is allowed by the law.
 
 They have sent us unsigned certifications and false documents,
@@ -63,9 +64,9 @@ plan, and they misinterpreted the fridge for the oven, making the
 outlet in the wrong place.
 
 We asked for a larger shower area.  They realize it, but with
-different, cheaper, specifications.  And it istalled on a step, of
+different, cheaper, specifications.  And it installed on a step, of
 which we have not been informed.  They have tried to attribute every
-deviation from the contract by our request, but their argomentations
+deviation from the contract by our request, but their argumentation
 are dropping one by one.
 
 There should have been a pocket door that has not been realized, so,

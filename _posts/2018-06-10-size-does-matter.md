@@ -36,9 +36,6 @@ contains any guarantee over the measures of the singles rooms.
 How it is possible?  The trick is that the floor plan we signed does
 not have measures in it.  So, fourreal claims that the purchase
 contract contains no obligation about the measures of single rooms.
-Note that the floor plan with the measure is still part of the
-official documents, but, apparently, it is not part of the purchase
-contract, because it is not signed, I guess.
 
 It is worth noting that the door in the
 bathroom [did not even open][washing-bowl] because of the small
@@ -46,18 +43,16 @@ dimension of the room, they have been forced to relocate the
 washing-bowl, before the acceptance negotiation.  In this way, the
 door can open properly, but one of the power outlets is useless when
 the door is open, and the asymmetry of the outlets and the pipes is a
-bit ugly. Also, according to an architect we hired, the bowl should be
-fixed in an armor inside the wall, it is not obvious that moving it
-will not affect its stability.
+bit ugly.
 
 Anything seems to indicate an error of construction.  It is not easy
 to accept that "the purchase contract contains no guarantees on the
 size of single rooms".  Of course no one would complain about small
 differences, but here we are talking about difference of 25%.  Before
-signing the contract, we
-asked [modifications][bathroom-customizations] to fourreal in the
-bathroom.  For instance we asked for a bigger shower area.  We did our
-requests on the basis of the information provided by fourreal.
+signing the contract, we asked
+[modifications][bathroom-customizations] to fourreal in the bathroom.
+For instance we asked for a bigger shower area.  We did our requests
+on the basis of the information provided by fourreal.
 
 It could be argued about our naïveness in signing the "new"
 floor-plan.  Indeed, we were worried about the steps.  According to
@@ -65,39 +60,43 @@ Mr. Jendrzejewski, who represented fourreal, they were just a little
 adjustment caused by building needs.  Of course, we were a bit
 uncomfortable with this last-minute modification.  We should have
 refuse to sign, and start a negotiation for a reduction in price.
-However, refusing it would have imply another meeting by the notary,
-that we would have been cost to us about € 2000.  It would have
-required a lot more time.  We had a long negotiation to agree with
-fourreal on a suitable date for signing the contract.  It was not
-obvious that fourreal would have agreed to a reduction in price.  In
-the end, we didn't worry at all about the measures, also because the
-original floor-plan was part of a folder that present the seal from
-the notary, so, we thought it was part of the contract anyway.
+However, it would have imply another meeting by the notary, that we
+would have been cost to us about € 2000.  It would have required a lot
+more time.  We had a long negotiation to agree with fourreal on a
+suitable date for signing the contract.  It was not obvious that
+fourreal would have agreed to a reduction in price.  Long story short:
+we didn't worry at all about the measures, also because the original
+floor-plan was part of a folder that present the seal from the notary,
+so, we thought it was part of the contract anyway.
 
 We discover later, that the folder containing the original floor-plan
 is not part of the purchase contract, but of the _Teuilungserklärung_
-(declaration of division). I doubt the questions is that simple.  Even
-if it is true that they are not bounded by such declaration (and not
-being a lawyer, I have no authority on the matter), it seems to me
-that they have provided to us false information.  Of course, part of
-it could be attributed to the real estate agency, Bewocon, but
-fourreal itself sent us the plan in the draft of the contract, and in
-the set of documents of which the purchase contracts belongs, so there
-is no reason to doubt that Bewocon used measures provided by fourreal.
+(declaration of division).  So, it is arguably not bounding for the
+seller.
+
+I doubt the questions is that simple.  Even if it is true that they
+are not bounded by such declaration (and not being a lawyer, I have no
+authority on the matter), it seems to me that they have provided to us
+false information.  Of course, part of it could be attributed to the
+real estate agency, Bewocon, but fourreal itself sent us the plan with
+the measures in the draft of the contract, and in the set of documents
+of which the purchase contracts belongs, so there is no reason to
+doubt that Bewocon used measures provided by fourreal.
 
 I understand that a seller can not control each detail of the
 implementation, but i do not think we are talking about details here.
 Also, the seller is responsible for their sub-contractors.  So, if
 fourreal wanted to hire the cheapest construction company they found,
-they should have been particularly careful in following their works.
-And when things went wrong, they should have assumed their own
-responsibilities.
+they should have been, at least, a bit more careful in super-visioning
+the works.  And when things went wrong, in my humble opinion, they
+should have assumed their own responsibilities.
 
-Speaking of responsability, it is worth noting that
-I [met][meeting-fourreal] fourreal only in the middle of August, when
-the material for our wooden floor has been delivered.  Apparently,
-they did not bother to check the proceeding of the works before of
-that event.
+Speaking of responsibility, it is worth noting that I
+[met][meeting-fourreal] fourreal only in the middle of August, when
+the material for our wooden floor has been delivered, and they thought
+there was a problem.  Apparently, they did not bother to check the
+proceeding of the works before of that event.
+
 
 [floor-plan-1]: https://www.instagram.com/p/Bj5VwBMlXSQ/
 [floor-plan-2]: https://www.instagram.com/p/Bj5V6CLlN3H/

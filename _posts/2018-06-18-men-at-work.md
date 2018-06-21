@@ -9,7 +9,6 @@ The construction of our flat and, as far as I know, of all other
 properties in the building has been done by _Kassim Maher Bau GmbH_,
 until the first months of 2017, when they disappears.  It seems that
 fourreal never had much trust in them.  Mr. Klugsberger asked me a
-
 list of defects in one of our first meetings. I send him an
 [e-mail][e-mail] on 31 August 2016, with a list of the defects I found
 until this point.

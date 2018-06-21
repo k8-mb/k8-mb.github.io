@@ -135,14 +135,31 @@ the whole flat has a wooden floor, with the only exception of the
 bathroom.
 
 After a couple of hours of meeting, my wife leave, with ours then two
-years old daughter, while Mr. Klugsberger and Mr. Unger are engaged in a crusade  to sell me the _dielen_.  If there were some doubt left, after the false information provided to me until this point, the tactically delayed replies , the aversion to everything written, the heat of these two trafficker makes clear that there is something wrong.  I refuse their offers and go back home.
+years old daughter, while Mr. Klugsberger and Mr. Unger are engaged in
+a crusade to sell me the _dielen_.  If there were some doubt left,
+after the false information provided to me until this point, the
+tactically delayed replies , the aversion to everything written, the
+heat of these two trafficker makes clear that there is something
+wrong.  I refuse their offers and go back home.
 
-I write one last mail to Mr. Klugsberger, to give him the last chance of act professionally.  He reply that he is surprised in learning that we want a new parquet, and we tell him only now, two weeks before the delivery.  He pretends that we have not talked about it in the last month, and he says that we are not allowed to change the specifications of the contract without informing fourreal.
-Because of that, they will be not able to honor the deadline stated in the purchase contract.
+I write one last mail to Mr. Klugsberger, to give him the last chance
+of act professionally.  He reply that he is surprised in learning that
+we want a new parquet, and we tell him only now, two weeks before the
+delivery.  He pretends that we have not talked about it in the last
+month, and he says that we are not allowed to change the
+specifications of the contract without informing fourreal.  Because of
+that, they will be not able to honor the deadline stated in the
+purchase contract.
 
-Indeed, they are late.  The flat should have been delivered by the first of October. It is not ready, and, of course, not because of the wooden floor, that, by they way, can be installed as last thing.  On the 12 October, two weeks after the delivery date, there are [many thing][delay] missing: no bathroom, no internal doors, no terrace.
+Indeed, they are late.  The flat should have been delivered by the
+first of October. It is not ready, and, of course, not because of the
+wooden floor, that, by they way, can be installed as last thing.  On
+the 12 October, two weeks after the delivery date, there
+are [many thing][delay] missing: no bathroom, no internal doors, no
+terrace.
 
-It took several other weeks to have finally our parquet installed, but this will be the subject of [another story][time-is-money].
+It took several other weeks to have finally our parquet installed, but
+this will be the subject of [another story][time-is-money].
 
 [hutz]: https://youtu.be/-Nc88_ZEfxg
 [delay]: https://www.instagram.com/p/BkC3htplI0H/

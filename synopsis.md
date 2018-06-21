@@ -48,19 +48,18 @@ lawyer and an architect to being able to have our parquet properly
 installed. And we paid the added costs anyway, that amounts to € 700.
 
 They added two steps in the floor-plan at the last minute. We expected
-them to be in concrete, but they realized in wood.  We tried to
-contract about the implementation, since there are no specification in
-the purchase contract.  We even offer to contribute to the expenses,
-if concrete would have been more expensive.  They told us that making
-the step in concrete in nonsense, and every expert would have
-confirmed their opinion.
+them to be in concrete, but they are realized in wood.  We tried to
+negotiate about the implementation, since there are no specification
+in the purchase contract.  We even offer to contribute to the
+expenses.  They told us that making the step in concrete in nonsense,
+and every expert would have confirmed their opinion.
 
 When I asked for the [opinion of _their_ expert][roloff-stairs], he
 did not says that it would have been impossible.  He says that it was
 too late. This certifications come after two months of negotiation on
-the issue.  Other experts I consulted told me that the certification
-itself is nonsense, and there is absolutely no problem in making them
-in concrete.
+the issue.  Other experts tell me that the certification itself is
+nonsense, and there is absolutely no problem in making them in
+concrete.
 
 The contract specify two distinct outlets for the cooking-plan and the
 oven.  They realized only one.  When I asked, they did not know what
@@ -69,24 +68,22 @@ existing one, as I asked, they wanted me to send them the kitchen
 plan, and they misinterpreted the fridge for the oven, making the
 outlet in the wrong place.
 
-We asked for a larger shower area.  They realize it, but with
-different, cheaper, specifications.  And it installed on a step, of
-which we have not been informed.  They have tried to attribute every
-deviation from the contract by our request, but their argumentation
+We asked for a larger shower area.  They realized it, but with
+different, cheaper, specifications.  And it is installed on a step, of
+which we have not been informed.  They are trying to attribute every
+deviation from the contract to our request, but their argumentation
 are dropping one by one.
 
-There should have been a pocket door that has not been realized, so,
-there is no separation between _day_ areas and _night_ areas.  Since
-the pocket door is specified only in the floor plan, they seem to
+There should have been a pocket door that has not been realized.
+Since the pocket door is specified only in the floor plan, they
 pretend it is not due.  Experts tell us otherwise.  And every other
-flat in the building actually _has_ an equivalent solution.
+flat in the building actually has an equivalent solution.
 
-There should be a gate in garden that has never been realized.
-fourreal refuse to realize it.  They first said that it is not due,
-then that it is in the floor plan only to illustrate the orientation
-of the garden, then that the construction authorities forbids its
-realization.  Again, they are not able to show a single evidence of
-these claims.
+There should be a gate in the garden that has never been realized.
+fourreal, at first, said that it is not due, then that it is in the
+floor plan only to illustrate the orientation of the garden, then that
+the construction authorities forbid its realization.  Again, they are
+not able to show a single evidence of these claims.
 
 The whole terrace is on a step that has never been indicated, and the
 sand between the bricks went away at the first rain.

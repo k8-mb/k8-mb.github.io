@@ -21,10 +21,9 @@ cocky, cunning and sneaky, reasonable and greedy.
 
 For a quick glance, please see the [synopsis].
 
-Besides the chronicles, for those interested, there is
-a [time-line](timeline) that reports the facts as happened.  It is
-probably a bit boring to read, and will be frequently updated, being
-mostly used as references.  Photographic documentation is available
+For reference, there is a [time-line](timeline).
+
+Photographic documentation is available
 on [instagram](https://instagram.com/k8_mb).
 
 [synopsis]: synopsis.html

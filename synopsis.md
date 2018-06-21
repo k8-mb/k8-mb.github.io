@@ -47,13 +47,13 @@ they would have ruined our, lacquered, parquet.  We had to hire a
 lawyer and an architect to being able to have our parquet properly
 installed. And we paid the added costs anyway, that amounts to € 700.
 
-The added two steps in the floor-plan at the last minute. We expected
+They added two steps in the floor-plan at the last minute. We expected
 them to be in concrete, but they realized in wood.  We tried to
 contract about the implementation, since there are no specification in
 the purchase contract.  We even offer to contribute to the expenses,
 if concrete would have been more expensive.  They told us that making
 the step in concrete in nonsense, and every expert would have
-confirmed their opinion. 
+confirmed their opinion.
 
 When I asked for the [opinion of _their_ expert][roloff-stairs], he
 did not says that it would have been impossible.  He says that it was

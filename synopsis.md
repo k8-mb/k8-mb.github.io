@@ -110,4 +110,4 @@ this chronicles, but it will take a bit of time.
 [men-at-work]: {% post_url 2018-06-18-men-at-work %}
 [floor-plan-1]: https://www.instagram.com/p/Bj5VwBMlXSQ/
 [floor-plan-2]: https://www.instagram.com/p/Bj5V6CLlN3H/
-[roloff-stairs]: /assest/docs/roloff-stairs.pdf
+[roloff-stairs]: /assets/docs/roloff_stairs.pdf

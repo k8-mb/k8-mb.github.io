@@ -3,7 +3,7 @@ layout: post
 title: "Men at Work"
 index: 3
 ---
-![sadness](/assets/covers/sadness-451917_640.jpg)
+![sadness](/assets/covers/site-2606359_640.jpg)
 
 The construction of our flat and, as far as I know, of all other
 properties in the building has been done by _Kassim Maher Bau GmbH_,

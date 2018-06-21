@@ -3,7 +3,7 @@ layout: page
 title: "Synopsis"
 ---
 
-![fourreal](/assets/covers/ruin-2108239_640.jpg)
+![fourreal](/assets/covers/movie-star-1027365_640.jpg)
 
 Dealing with fourreal is a daunting process.
 

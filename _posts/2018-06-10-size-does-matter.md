@@ -3,7 +3,7 @@ layout: post
 title: "Size Does Matters"
 index: 1
 ---
-![size](/assets/covers/home-1353389_640.jpg)
+![size](/assets/covers/real-estate-2955057_640.jpg)
 
 
 The flat we bought from fourreal has been shown to us by the real

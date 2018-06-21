@@ -3,7 +3,7 @@ layout: post
 tile: "Meeting fourreal: Mr. Klugsberger"
 index: 2
 ---
-![deceive](/assets/covers/deceive-1299043_640.png)
+![deceive](/assets/covers/house-purchase-1019764_640.jpg)
 
 I meet someone from fourreal for the first time on 17 August 2016.
 After being called by Mr. Unger, of the construction company _Kassim

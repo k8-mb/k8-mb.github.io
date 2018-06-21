@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![typewriter](/assets/covers/typewriter-407695_640.jpg)
+![typewriter](/assets/covers/white-male-1856206_640.jpg)
 
 My name is Marco Benelli, this site describe my personal struggle in buying a real estate property in Berlin.
 My experience has been shared by other people, notably my wife, but this site represent only my point of view; any other subject involved may or may not agree with me.

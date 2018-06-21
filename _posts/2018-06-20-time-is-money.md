@@ -3,7 +3,7 @@ layout: post
 title: "Time is Money"
 index: 4
 ---
-![house-money](/assets/covers/house-construction-1005491_640.jpg)
+![house-money](/assets/covers/time-1019889_640.jpg)
 
 After a couple of month of negotiation with fourreal, I decide to hire
 a lawyer.  I would say I am forced: it is crystal clear that fourreal

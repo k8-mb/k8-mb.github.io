@@ -3,10 +3,7 @@ layout: home
 list_title: "Chronicles"
 ---
 
-> A lie has no legs, and cannot stand; but it has wings,
-> and can fly far and wide.
->
-> -- Chinese Proverb
+![cover](/assets/covers/browse-1019762_640.jpg)
 
 _Fourreal GmbH_ is a real estate company based in Vienna and operating in
 Vienna and Berlin.

@@ -7,24 +7,22 @@ title: "Synopsis"
 
 Dealing with fourreal is a daunting process.
 
-I have not seen anyone of fourreal
-until [six week before the delivery][meeting-fourreal] date. And as
-soon as they appeared, they started calling me and my wife for a lot
-of meetings with the construction company.
+I have not seen anyone of fourreal until [six week before the delivery
+deadline][meeting-fourreal]. And as soon as they appeared, it started
+a serie of meetings with them and the construction company.
 
-During these meetings, they provided ambiguous, and sometime false,
-information.  They involved us in the negotiation with their
-contractors.  Then, they pretended to have nothing to do with that,
-and blamed us to have stepped over them in dealing with the
+During these meetings, they provided us ambiguous, incomplete, and
+sometime false, information.  They involved us in the negotiation with
+their contractors.  Later on, they pretended to have nothing to do
+with that, and blamed us to have stepped over them in dealing with the
 construction company.  By the way, the [workmanship][men-at-work] of
-their contractors, make me think they are the cheapest on the market.
+their contractors is, to be polite,  uncertain.
 
 One of fourreal's employees, Mr. Klugsberger, is in an ambiguous
 situation: he is also the directing manager of _PeakReal GmbH_, that
-acts as real estate agent for the project in Kärntener Straße.  He
-sends e-mails both as a fourreal's representative, both as a
-PeakReal's one, even if we never dealt with PeakReal.  I am surprise
-it is allowed by the law.
+acts as real estate agent for our building.  He sends e-mails both as
+a fourreal's representative, and as a PeakReal's one, even if we
+never dealt with PeakReal.  I am surprise it is allowed by the law.
 
 They have sent us unsigned certifications and false documents,
 regarding the legal status of our building.  They claimed that our
@@ -34,25 +32,26 @@ us the same document again.
 
 They added a [modified floor plan][floor-plan-2] to our purchase
 contract at the last minute, when we met by the notary to sign it.
-The new floor plan has no measures for singles rooms, contrarily
-to [the one used until this point][floor-plan-1].  In implementation
-of the flat, the bathroom and bedroom are much smaller than originally
-indicated.
+The new floor plan has no measures for singles rooms, contrarily to
+[the one used until this point][floor-plan-1].  In implementation of
+the flat, the bathroom and bedroom are [much
+smaller][size-does-matters] than originally indicated.
 
 We have chosen a parquet following their instructions.  As agreed, we
 have paid the difference in the material. They told us the parquet
 would have required a very complicated installation, with sanding and
-oiling.  That is false.  Not only they asked for additional € 3000,
+oiling.  That is false.  Not only they asked for additional € 3500,
 they would have ruined our, lacquered, parquet.  We had to hire a
 lawyer and an architect to being able to have our parquet properly
 installed. And we paid the added costs anyway, that amounts to € 700.
 
 They added two steps in the floor-plan at the last minute. We expected
 them to be in concrete, but they are realized in wood.  We tried to
-negotiate about the implementation, since there are no specification
-in the purchase contract.  We even offer to contribute to the
-expenses.  They told us that making the step in concrete in nonsense,
-and every expert would have confirmed their opinion.
+[negotiate][time-is-money] about the implementation, since there are
+no specification in the purchase contract.  We even offer to
+contribute to the expenses.  They told us that making the step in
+concrete in nonsense, and every expert would have confirmed their
+opinion.
 
 When I asked for the [opinion of _their_ expert][roloff-stairs], he
 did not says that it would have been impossible.  He says that it was
@@ -108,6 +107,8 @@ this chronicles, but it will take a bit of time.
 
 [meeting-fourreal]: {% post_url 2018-06-15-meeting-fourreal %}
 [men-at-work]: {% post_url 2018-06-18-men-at-work %}
+[size-does-matters]: {% post_url 2018-06-10-size-does-matter %}
+[time-is-money]: {% post_url 2018-06-20-time-is-money %}
 [floor-plan-1]: https://www.instagram.com/p/Bj5VwBMlXSQ/
 [floor-plan-2]: https://www.instagram.com/p/Bj5V6CLlN3H/
 [roloff-stairs]: /assets/docs/roloff_stairs.pdf

@@ -60,12 +60,11 @@ the issue.  Other experts tell me that the certification itself is
 nonsense, and there is absolutely no problem in making them in
 concrete.
 
-The contract specify two distinct outlets for the cooking-plan and the
-oven.  They realized only one.  When I asked, they did not know what
-the contract specify.  Instead of making another outlet near the
-existing one, as I asked, they wanted me to send them the kitchen
-plan, and they misinterpreted the fridge for the oven, making the
-outlet in the wrong place.
+The contract specifies two distinct outlets for the cooking-plan and
+the oven.  They realized only one.  Instead of making another outlet
+near the existing one, as I asked, they wanted me to send them the
+kitchen plan, and they misinterpreted the fridge for the oven, making
+the outlet in the wrong place.
 
 We asked for a larger shower area.  They realized it, but with
 different, cheaper, specifications.  And it is installed on a step, of
@@ -97,9 +96,8 @@ allows them to pay a monetary amount instead of finishing some works
 in jointly owned properties.  Of course we agree with the principle,
 given the quality of their works, but we have not subscribed the terms
 of the agreement.  Apparently, they do not care that our signatures
-are missing, they already deposited the money.  With regret, I have to
-says, that they are doing that with the complicity of the
-administration.
+are missing, they already deposited the money.  They are doing that
+with the complicity of the administration.
 
 Each of the issues outlined here will be expanded in the future, in
 this chronicles, but it will take a bit of time.

@@ -29,11 +29,9 @@ been met. We are now forced to renew the contract on a monthly basis,
 without any insurance that the flat will be available.
 
 I am not happy about the results of the "negotiation" with fourreal,
-but, like George Bernard Shaw, "I learned long ago, never to wrestle
-with a pig.  You both get dirty, but the pig likes it."  We decide to
-worry only about the issues that actually prevent our relocation.  We
-hired an architect to help us with the remaining issues related to the
-parquet and the steps.
+but we decide to worry only about the issues that actually prevent our
+relocation.  We hired an architect to help us with the remaining
+issues related to the parquet and the steps.
 
 We fix an appointment on 20th October, with Ms. Martins, our
 architect, Mr. Unger, of the construction company and Mr. Klugsberger,

@@ -112,10 +112,11 @@ realize the cheapest solution.
 
 In any case, we [accepted][mail-20160927] to pay for the parquet, and
 we will have the step in woods.  We lost on all front. Well, it is not
-_that_ bad, but this the subject of the next chronicle.
+_that_ bad, but this the subject of the [next chronicle][negotiation].
 
 
 [negotiation]: {% post_url 2018-06-15-meeting-fourreal  %}
 [delay]: https: https://www.instagram.com/p/BkC3htplI0H/
 [mail-20160927]: /assets/docs/mails/mail-20160927.pdf
 [roloff]: /assets/docs/roloff_stairs.pdf
+[negotiation]: {% post_url 2018-06-22-negotiation %}

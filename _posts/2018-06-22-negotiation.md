@@ -22,7 +22,7 @@ still several [open issues][men-at-work].  Most importantly, fourreal
 is, once again, late and unwilling to give any explanation.
 
 We find ourselves in a difficult situation: we already have terminated
-the rental contract of the flat in which we are currently leaving.
+the rental contract of the flat in which we are currently living.
 The contract needed to be terminated with three month of notice, and
 we have always been reassured by fourreal that the deadline would have
 been met. We are now forced to renew the contract on a monthly basis,

@@ -8,9 +8,9 @@ index: 5
 After the [meeting][time-is-money] of 27th of September, in which we
 accepted to pay for the parquet, we are waiting for the delivery of
 the flat, for the 16th of October, as [agreed][mail-20160927] .
-However the works seems to be stopped.  I write again to
-Mr. Klugsberger, without receiving reply, as usual.  So, I am forced
-to ask our lawyer to write him.
+However the works seems to have stopped.  I write to Mr. Klugsberger,
+without receiving reply, as usual.  So, I am forced to ask our lawyer
+to write him.
 
 Mr. Klugsberger reply the 17th of October, assuring us that the
 parquet will be installed soon.  He also send the
@@ -25,19 +25,15 @@ We find ourselves in a difficult situation: we already have terminated
 the rental contract of the flat in which we are currently leaving.
 The contract needed to be terminated with three month of notice, and
 we have always been reassured by fourreal that the deadline would have
-been met.
-
-Now, we have to renew the contract on a monthly basis, paying a small
-penalty each month, without any insurance that the flat will be
-available.  Given that we have somewhat "solved" the issue of the
-parquet, we want to proceed as fast as we can.
+been met. We are now forced to renew the contract on a monthly basis,
+without any insurance that the flat will be available.
 
 I am not happy about the results of the "negotiation" with fourreal,
-but, like George Bernard Shaw, I learned: "Never wrestle with pigs.
-You both get dirty and the pig likes it."  We decide to worry only
-about the issues that actually prevent our relocation.  We hired an
-architect to help us with the remaining issues related to the parquet
-and the steps.
+but, like George Bernard Shaw, "I learned long ago, never to wrestle
+with a pig.  You both get dirty, but the pig likes it."  We decide to
+worry only about the issues that actually prevent our relocation.  We
+hired an architect to help us with the remaining issues related to the
+parquet and the steps.
 
 We fix an appointment on 20th October, with Ms. Martins, our
 architect, Mr. Unger, of the construction company and Mr. Klugsberger,
@@ -47,9 +43,9 @@ explains how I have agreed to pay for the installation.
 I point out that I have accepted to pay, _pending the condition that
 the flat would have been delivered on 16th October_.  Mr. Klugsberger
 turns pale, and mumbles that he told me that a few more days could be
-needed.  He told me?  Not really.  Besides, I had to _write_ my
+needed.  He told me?  No, he did not.  Besides, I had to _write_ my
 intention to pay, but clearly I do not deserve a written notification
-if his planes change.
+when his planes change.
 
 Mr. Martins checks the material and says that it is not
 _massiv-parkett_, as claimed by Mr. Klugsberger.  Who is getting even
@@ -66,8 +62,8 @@ Usually, it could be expected that a company that falsely blames its
 customers of misbehavior, wrestling with them for few thousand euro,
 would try to apologize as soon as proven wrong.  Maybe even compensate
 for the annoyance.  Anyway, I am happy to put this story to an end,
-and € 700 are not worth further complication, I know how stingy they
-are.
+and € 700 are not worth further complication; I realized how stingy
+fourreal is as soon as I met Ms. Orgovanyi-Hanstein.
 
 I discover a couple of other interestingly things from this
 inspections.

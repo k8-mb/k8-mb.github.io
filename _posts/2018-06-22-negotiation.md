@@ -12,26 +12,28 @@ However the works seems to have stopped.  I write to Mr. Klugsberger,
 without receiving reply, as usual.  So, I am forced to ask our lawyer
 to write him.
 
-Mr. Klugsberger reply the 17th of October, assuring us that the
+Mr. Klugsberger replies the 17th of October, assuring us that the
 parquet will be installed soon.  He also send the
 "[certification][roloff]" of the impossibility of doing the steps in
 concrete.
 
 The certification sounds very sloppy, even to a layman.  And there are
-still several [open issues][men-at-work].  Most importantly, fourreal
-is, once again, late and unwilling to give any explanation.
+several others [open issues][men-at-work].  The deadline is already
+expired and fourreal is unwilling to give any explanation.
 
 We find ourselves in a difficult situation: we already have terminated
-the rental contract of the flat in which we are currently living.
-The contract needed to be terminated with three month of notice, and
-we have always been reassured by fourreal that the deadline would have
+the rental contract of the flat in which we are currently living.  The
+contract needed to be terminated with three months of notice, and we
+have always been reassured by fourreal that the deadline would have
 been met. We are now forced to renew the contract on a monthly basis,
 without any insurance that the flat will be available.
 
 I am not happy about the results of the "negotiation" with fourreal,
 but we decide to worry only about the issues that actually prevent our
-relocation.  We hired an architect to help us with the remaining
-issues related to the parquet and the steps.
+relocation.  We hired an architect, Ms. Martins, to help us with the
+remaining issues.  She said that it is a bit late, she is used to
+follows the work since the beginning, but she accepts to help us
+anyway.
 
 We fix an appointment on 20th October, with Ms. Martins, our
 architect, Mr. Unger, of the construction company and Mr. Klugsberger,
@@ -41,11 +43,11 @@ explains how I have agreed to pay for the installation.
 I point out that I have accepted to pay, _pending the condition that
 the flat would have been delivered on 16th October_.  Mr. Klugsberger
 turns pale, and mumbles that he told me that a few more days could be
-needed.  He told me?  No, he did not.  Besides, I had to _write_ my
+needed.  Did he?  No, he did not.  Besides, I had to _write_ my
 intention to pay, but clearly I do not deserve a written notification
-when his planes change.
+when his plane changes.
 
-Mr. Martins checks the material and says that it is not
+Ms. Martins checks the material and says that it is not
 _massiv-parkett_, as claimed by Mr. Klugsberger.  Who is getting even
 more pale.  They talk few minutes, in German, with Mr. Unger, then
 they come to me with a new offer: € 700 for the installation.
@@ -66,14 +68,14 @@ fourreal is as soon as I met Ms. Orgovanyi-Hanstein.
 I discover a couple of other interestingly things from this
 inspections.
 
-They calculated the difference in price that we have to pay for the
-parquet material, by the post-taxes price of the material we choose,
-against the pre-taxes price that is written in the contract.  Since it
-seems obvious to me that the contract reports the pre-taxes price, I
-raise the objections.  They assure me that contract reports the
-post-taxes.  I take note, in order to pile this up with the other
-issues, however, in the invoice of the construction company, the
-problem is fixed. They are more gentlemen than fourreal's people.
+They calculated the difference in price for the parquet material, by
+the post-taxes price of the material we choose, against the pre-taxes
+price that is written in the contract.  Since it seems obvious to me
+that the contract reports the pre-taxes price, I raise the objection.
+They assure me that contract reports the post-taxes.  I take note, in
+order to pile this up with the other issues, however, in the invoice
+of the construction company, the problem is fixed. They are more
+gentlemen than fourreal's people.
 
 We discover that we have to pay for the installation of the tiles in
 the bathroom.  Apparently, not even the construction company was aware

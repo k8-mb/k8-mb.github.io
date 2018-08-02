@@ -102,9 +102,9 @@ a new static proofing would be needed.  And it is too late for
 concrete casting.
 
 I asked other experts to check the opinion of fourreal's expert,
-Mr. Roloff.  The told me, that it is absolutely nonsense.  They told
-me that a the weight will not be excessive and there is no need of
-static proofing.  Also, it would be quite easy and cheap.
+Mr. Roloff.  They told me, that it is absolutely nonsense: the weight
+will not be excessive and there is no need of static proofing.  Also,
+it would be quite easy and cheap.
 
 So, steps in concrete does not sound like nonsense.  I could deduce
 that they wasted time by purpose, in order to be legitimized to

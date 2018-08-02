@@ -107,10 +107,11 @@ fixes another appointment, in which she would have our power of
 attorney. They did the appointment, and only days later say wrote me
 that they need my written approbation of the steps.
 
-They added a few more complications, to buy time I think, but in the
-and we were able to do the partial acceptance negotiation for our
-special properties.  It is present Mr. Roloff, the dispenser of lame
-certification, and Mr. Vogl, another fourreal's directing manager.
+They added a few more complications, I guess they need to buy time,
+but in the end we were able to do the partial acceptance negotiation
+for our special properties.  It is present Mr. Roloff, the dispenser
+of lame certification, and Mr. Vogl, another fourreal's directing
+manager.
 
 We sign the "[protokoll][abnahme-protokoll]", and ask for a reduction
 of price, because of the late delivery.  Mr. Vogl says that it is our

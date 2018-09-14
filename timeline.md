@@ -805,6 +805,33 @@ do not sign the contract, because it still references the meeting of
 in our opinion, the work listed in this agreement does not match with
 the one on the contract.
 
+November 23th
+-------------
+
+Appointement to the court for a mediation.
+It is decided that Fourreal will come to inspect the flat.
+It is fixed a first appointment for the 30th of November at 16:30
+with the company for the window. Mr. Klugsberger says he would be
+present.
+
+November 30th
+-------------
+
+The window's company and Mr. Klusberger do not show themselves.
+My wife write to Mr. Klugsberger asking for explanations.
+
+December 11th
+--------------
+
+Mr. Klugsberger replies that they came to our neighbours but they
+did not have enough time to come to us.
+
+December 13th
+-------------
+
+Mr. Klugsberger and Mrs. Margeth-Theuer comes to see our flat
+
+
 2018
 ====
 

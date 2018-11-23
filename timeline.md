@@ -701,6 +701,11 @@ manager is Mr. Massoud and the new new foreman is Mr. Karasau.  So, I
 reply to Mr. Karasu, telling that I would keep the cellar open at the
 accorded date.
 
+April 3rd
+---------
+
+Mr. Karasu works in the cellars.
+
 May 5th
 -------
 
@@ -808,7 +813,7 @@ the one on the contract.
 November 23th
 -------------
 
-Appointement to the court for a mediation.
+Appointment to the court for a mediation.
 It is decided that Fourreal will come to inspect the flat.
 It is fixed a first appointment for the 30th of November at 16:30
 with the company for the window. Mr. Klugsberger says he would be
@@ -817,13 +822,13 @@ present.
 November 30th
 -------------
 
-The window's company and Mr. Klusberger do not show themselves.
+The window's company and Mr. Klugsberger do not show themselves.
 My wife write to Mr. Klugsberger asking for explanations.
 
 December 11th
 --------------
 
-Mr. Klugsberger replies that they came to our neighbours but they
+Mr. Klugsberger replies that they came to our neighbors but they
 did not have enough time to come to us.
 
 December 13th
@@ -835,12 +840,20 @@ Mr. Klugsberger and Mrs. Margeth-Theuer comes to see our flat
 2018
 ====
 
+January 4th
+-----------
+
+The door-bell is finally fixed.  It works for the first time after a
+year since we leave here. In the following days, we discover that
+some of the neighbor's door-bells are not working.
+
 March 7th
 ---------
 
 Ms. Margeth-Theuer call us reminding that we have not signed the
-contract.  I tell her that we are not willing to sign, and, after her
-request, I will send her a communication with our reasons.
+contract about the staircases. I tell her that we are not willing
+to sign, and, after her request, I will send her a communication
+with our reasons.
 
 March 20th
 ----------
@@ -881,7 +894,42 @@ May 29
 Ms. Margeth-Theuer still says that the deliberation of the meeting is
 enough for them to make the deposit.
 
-**... to be continued...**
+June 11
+-------
+
+Mr. Klugsberger, Ms. Orgovanyi-Hansen comes to our flat with their
+technician Mr. Schulze. They measure humidity in the air in the
+bedroom, and it is regular. However, the wall near the entrance door
+present an high value of humidity.
+
+July
+----
+
+It is decided that the owner's community will discuss in the
+next meeting the opportunity of hiring a lawyer and a technical
+expert for evaluation of the state of building.
+fourreal promises that all defect will be fixed, and build
+a scaffolding in the central building for working on the
+terraces.
+The scaffolding will stay in place for four months, and no one
+ever used it.
+
+August 14
+---------
+
+The owner's community decides to hire a technical expert,
+Mr. Schwarz and a lawyer, Mr. Brahms to check the defects
+of the jointly owned properties.
+During the owner's meeting, fourreal announce the plan for
+the courtyards, details and estimations will follow.
+
+September 21
+------------
+
+Ms. Lisa Galler, of fourreal, send us the new plan for the
+courtyards. She send a mail to all the owners, with attached
+a document of approbation for the authorities, a floor-plan
+and an estimation of the expenses.
 
 ------------------------------------------------------------
 [unger_parquet]:     /assets/docs/unger_parquet.pdf

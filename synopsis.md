@@ -101,6 +101,17 @@ given the quality of their works, but we have not subscribed the terms
 of the agreement.  Apparently, they do not care that our signatures
 are missing, they already deposited the money.
 
+They have sent us misleading information about the implementation
+of the green areas in the courtyards. We needed to go the competent
+autorities to discover that the plan they presented is not feasible.
+
+After two year that the first owner live in the building, they have
+built a huge scaffolding for fixing some defects in the terraces.
+The scaffolding have been in place for four mounth and nobody ever
+used it. It has been dismantled after the visit of an inspector
+that pointed out how dangerous and irregular it was.
+
+And the story still goes on.
 
 [meeting-fourreal]: {% post_url 2018-06-15-meeting-fourreal %}
 [men-at-work]: {% post_url 2018-06-18-men-at-work %}

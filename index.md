@@ -14,7 +14,7 @@ currently in a court proceeding against them.  We are not the only
 ones that needed the help of lawyers and courts while dealing with
 fourreal.
 
-A court can only help us in recognize the border between legal and
+A court can help us in recognize the border between legal and
 illegal.  And I am sure, the real estate market in Berlin is providing
 lot of work to the local courts.  I am writing these chronicles to
 explore borders more blurred: the ones between professional and

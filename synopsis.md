@@ -5,11 +5,14 @@ title: "Synopsis"
 
 ![fourreal](/assets/covers/males-2506816_640.jpg)
 
-Dealing with fourreal is a daunting process.
+Buying an house in Berlin is not simple. If the seller is relate to
+_fourreal GmbH_ it becomes a daunting process.
 
 I have not seen anyone of fourreal until [six week before the delivery
 deadline][meeting-fourreal]. And as soon as they appeared, it started
-a serie of meetings with them and the construction company.
+a serie of meetings with them and the construction company. I tried
+my best to communicate as much as possible by email, but without
+succeeding.
 
 During these meetings, they provided us ambiguous, incomplete, and
 sometime false, information.  They involved us in the negotiation with
@@ -96,11 +99,7 @@ allows them to pay a monetary amount instead of finishing some works
 in jointly owned properties.  Of course we agree with the principle,
 given the quality of their works, but we have not subscribed the terms
 of the agreement.  Apparently, they do not care that our signatures
-are missing, they already deposited the money.  They are doing that
-with the complicity of the administration.
-
-Each of the issues outlined here will be expanded in the future, in
-this chronicles, but it will take a bit of time.
+are missing, they already deposited the money.
 
 
 [meeting-fourreal]: {% post_url 2018-06-15-meeting-fourreal %}

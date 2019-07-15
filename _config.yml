@@ -17,7 +17,6 @@ title: fourreal in Berlin
 author: Marco Benelli
 email: info@fourreal.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Real estate nightmares in Berlin - 
   This site is NOT associated with fourreal GmbH or any related company.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
